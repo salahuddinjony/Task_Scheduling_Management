@@ -11,8 +11,6 @@ To do List Mobile Application. Set tasks, reminders for daily activities
 ![WhatsApp Image 2024-05-06 at 4 26 59 AM](https://github.com/salahuddinjony/Task_Scheduling_Management/assets/36960783/b8dbadd1-d4ad-4f5d-b6c8-e83dfb88e1bb)
 ![WhatsApp Image 2024-05-06 at 4 26 58 AM](https://github.com/salahuddinjony/Task_Scheduling_Management/assets/36960783/f0f0f087-ec29-460b-84ce-1dc531b1ae6f)
 ![WhatsApp Image 2024-05-06 at 4 26 58 AM (1)](https://github.com/salahuddinjony/Task_Scheduling_Management/assets/36960783/72c14789-2091-4e2b-8c48-48754baf6436)
-</div>
-<div align="center">
 ![WhatsApp Image 2024-05-06 at 4 26 57 AM](https://github.com/salahuddinjony/Task_Scheduling_Management/assets/36960783/998a35c1-ccdb-4180-934d-2f85d277de4a)
 ![WhatsApp Image 2024-05-06 at 4 26 57 AM (1)](https://github.com/salahuddinjony/Task_Scheduling_Management/assets/36960783/dd99e9b6-fd1a-431a-a5f8-9cd3547c64e2)
 ![WhatsApp Image 2024-05-06 at 4 26 56 AM](https://github.com/salahuddinjony/Task_Scheduling_Management/assets/36960783/347377d3-1ca5-4182-bc13-124e53f90bd4)
