@@ -1,4 +1,4 @@
-# TaskPro
+# Task Scheduling Management Application
 To-do List Mobile Application. Set tasks for daily life activities. 
 
 
