@@ -4,22 +4,21 @@ To do List Mobile Application. Set tasks, reminders for daily activities
 <b>NOTE: Don't forget to fork or star this project 🙏😁 to keep this project going </b>
 
 # Illustrations
-<div align="center">
-  <img src="https://github.com/e-ManueI/TaskPro/assets/19648538/b5fdf642-ed1e-4cad-b58d-745d374bfbd6" width="300" alt="Screenshot 1">
-  <img src="https://github.com/e-ManueI/TaskPro/assets/19648538/0f98a1be-4580-410f-a4c0-7a1ff8ff5131" width="300" alt="Screenshot 3">
-  <img src="https://github.com/e-ManueI/TaskPro/assets/19648538/6d17fa66-3043-4b8e-ae1d-a5c952627bcc" width="300" alt="Screenshot 2">
-</div>
 
 <div align="center">
   <img src="https://github.com/e-ManueI/TaskPro/assets/19648538/574444d0-625f-40b7-9321-143774d293fb" width="300" alt="Screenshot 4">
   <img src="https://github.com/e-ManueI/TaskPro/assets/19648538/4bfd26a2-d884-45bb-938f-da85d064c228" width="300" alt="Screenshot 5">
 </div>
 
+<div align="center">
+ 
+
 
 ![WhatsApp Image 2024-05-06 at 4 27 58 AM](https://github.com/salahuddinjony/Task_Scheduling_Management/assets/36960783/9c803dc6-ae34-4e82-b05c-5404b6a11a74)
 ![WhatsApp Image 2024-05-06 at 4 26 59 AM](https://github.com/salahuddinjony/Task_Scheduling_Management/assets/36960783/b8dbadd1-d4ad-4f5d-b6c8-e83dfb88e1bb)
 ![WhatsApp Image 2024-05-06 at 4 26 58 AM](https://github.com/salahuddinjony/Task_Scheduling_Management/assets/36960783/f0f0f087-ec29-460b-84ce-1dc531b1ae6f)
 ![WhatsApp Image 2024-05-06 at 4 26 58 AM (1)](https://github.com/salahuddinjony/Task_Scheduling_Management/assets/36960783/72c14789-2091-4e2b-8c48-48754baf6436)
+</div>
 ![WhatsApp Image 2024-05-06 at 4 26 57 AM](https://github.com/salahuddinjony/Task_Scheduling_Management/assets/36960783/998a35c1-ccdb-4180-934d-2f85d277de4a)
 ![WhatsApp Image 2024-05-06 at 4 26 57 AM (1)](https://github.com/salahuddinjony/Task_Scheduling_Management/assets/36960783/dd99e9b6-fd1a-431a-a5f8-9cd3547c64e2)
 ![WhatsApp Image 2024-05-06 at 4 26 56 AM](https://github.com/salahuddinjony/Task_Scheduling_Management/assets/36960783/347377d3-1ca5-4182-bc13-124e53f90bd4)
